@@ -1,3 +1,7 @@
+-=(MacPlus_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # Macintosh Plus for the [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This is a port of the [Plus Too core](https://github.com/mist-devel/mist-binaries/tree/master/cores/plus_too) from MiST which is the port of the [Plus Too project](http://www.bigmessowires.com/plus-too/).
